@@ -41,25 +41,24 @@ A short paragraph summarizing what is to be presented
 Anything the organizer should be aware of about the presentation
 ```
 
-January 2019
+### January 2019
 -------------
 
 ### Topic
 
-Topic of the presentation
+Exploring the Back-end Virtual DOM library landscape
 
 ### Summary
 
-A short paragraph summarizing what is to be presented
+[Texas](https://gitlab.com/dgmcguire/texas), [Drab](https://github.com/grych/drab) and Phoenix LiveView are libraries that allow developers to create webapps with similar user experiences to those found in JavaScript-heavy applications, while remaining (mostly) in the relative comfort of a server-side rendered world. We'll take a look at the current state of these libraries and some examples.
 
 ### Presenter
 
-- **Name:** Your name
-- **URL:** Your webpage
-- **GitHub:** Your GitHub profile
-- **Twitter:** Your Twitter profile
+- **Name:** Jordan Day
+- **GitHub:** https://github.com/jordan0day
+- **Twitter:** https://twitter.com/jordan0day
 
 ### Notes
 
-Anything the organizer should be aware of about the presentation
+Phoenix LiveView has not be released to the general public, so there might not be much to say about it by the time the meetup rolls around?
 
