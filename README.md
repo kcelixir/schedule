@@ -62,3 +62,24 @@ Exploring the Back-end Virtual DOM library landscape
 
 Phoenix LiveView has not be released to the general public, so there might not be much to say about it by the time the meetup rolls around?
 
+March 2019
+-------------
+
+### Topic
+
+Chemanalysis: Dialyzing Elixir
+
+### Summary
+
+No one wants to ship bugs in a production system, especially embarrassing ones! Dialyzer is a post-compilation type-checker that has found more bugs in my code than I can count, saving me a lot of time and frustration. This talk will discuss briefly what Dialyzer is, how to use it in Elixir projects, and go in-depth on three bugs it helped me find in the Elixir compiler and standard library.
+
+### Presenter
+
+- **Name:** Sean Cribbs
+- **URL:** https://seancribbs.com
+- **GitHub:** https://github.com/seancribbs
+- **Twitter:** https://twitter.com/seancribbs
+
+### Notes
+
+This is a reprise of the [CodeBEAM SF talk](https://codebeam.io/speaker/sean-cribbs/#290chemanalysis-dialyzing-elixir) I'll be giving.
